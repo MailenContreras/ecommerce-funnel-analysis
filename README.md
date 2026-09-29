@@ -35,3 +35,8 @@ The SQL analysis includes:
 - Revenue and order metrics
 
 The results were visualized in Looker Studio to support business-oriented interpretation and recommendations.
+
+## 🔗 Portfolio
+
+View the full project presentation and business insights on Notion: https://app.notion.com/p/E-commerce-Conversion-Funnel-Analysis-3e70649d3e8f80efa586e3d2fe16dbde?pvs=12
+
